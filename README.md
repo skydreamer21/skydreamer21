@@ -2,7 +2,12 @@
 
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Velog?style=뱃지모양&logo=Velog&logoColor=20C997"/></a> -->
 
+# 🌟 Introduce Me!
+🚀 OOP와 테스트를 통한 **안정적**이고 **확장성** 높은 코드를 추구합니다.
 
+🧑‍🤝‍🧑 동료들과 함께 성장할 수 있는 **성장공동체**를 지향합니다.
+
+🔥 끊임없는 **학습과 도전**을 즐기며, 매 순간을 성장의 기회로 삼습니다.
 
 <!--
 **skydreamer21/skydreamer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
