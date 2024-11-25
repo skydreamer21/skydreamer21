@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/Backend-5e5e5e"> <img src="https://img.shields.io/badge/Passion-d95757"> <img src="https://img.shields.io/badge/Core_Catching-7d4dd6"> <img src="https://img.shields.io/badge/Together-61c777">
 
-
+✉️ skydreamer210@gmail.com
 
 
 <br>
