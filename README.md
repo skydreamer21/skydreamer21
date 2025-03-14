@@ -7,17 +7,15 @@
 # 🌟 Introduce Me!
 
 ### 안녕하세요! 주니어 백엔드 개발자 김주현입니다. 😄
-🔥 끊임없는 **학습과 도전**을 즐기며, 매 순간을 성장의 기회로 삼습니다.
+🔥 끊임없는 **학습과 도전을 즐기며**, 매 순간을 성장의 기회로 삼습니다.
 
 🚀 OOP와 테스트를 통한 **안정적**이고 **확장성** 높은 코드를 추구합니다.
 
-🐬 **핵심을 파악하고 연결 짓는 학습**을 통해 살아있는 지식을 배웁니다.
+🐬 **핵심을 파악하고 연결 짓는 학습**을 통해 살아있는 지식을 배웁니다. (TMI. Obsidian을 좋아합니다)
 
-🧑‍🤝‍🧑 동료들과 함께 성장할 수 있는 **성장공동체**를 지향합니다.
+✨ 제가 만든 결과물이 동료들과 유저들에게 "**더 편리하게**, **더 쉽게**, **더 효과적이게**" 될 때 보람을 느낍니다.
 
 <img src="https://img.shields.io/badge/Backend-5e5e5e"> <img src="https://img.shields.io/badge/Passion-d95757"> <img src="https://img.shields.io/badge/Core_Catching-7d4dd6"> <img src="https://img.shields.io/badge/Together-61c777">
-
-
 
 
 <br>
@@ -35,6 +33,7 @@
       <td>Backend</td>
       <td>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
         <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
@@ -61,7 +60,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       </td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
@@ -71,6 +69,7 @@
 
 |Date|Activity|Type|
 |:---:|:---:|:---:|
+|25.01.04 ~ now|Depromeet 16th|<img src="https://img.shields.io/badge/Activity_🏃‍♀️-a85bf0">|
 |24.07.15 ~ now|Tmax CoreAI - Server Engineer|<img src="https://img.shields.io/badge/Work_🏢-40aadb">|
 |23.12.26 ~ 24.05.31|SSAFY Project Coach|<img src="https://img.shields.io/badge/Activity_🏃‍♀️-a85bf0">|
 |23.01.04 ~ 23.12.19|Samsung Software Academy For Youth<br>(SSAFY)|<img src="https://img.shields.io/badge/Education_📒-bf8b56">|
@@ -81,10 +80,24 @@
 # 💻 Project
 |Date|Project|Desc|
 |:---:|:---:|:---|
+|25.01.04 ~ 25.04.19 (Onging)|[SPURT](https://github.com/depromeet/SPURT-server)|미룬이들의 스타트를 끊어주고, 확보한 골든타임의 몰입을 극대화해주는 서비스|
 |23.10.09 ~ 23.11.17|[줍줍](https://github.com/ZupZup-2EZ)|환경과 건강을 동시에 챙길 수 있는 플로깅에 흥미를 갖고 지속적인 참여를 독려하는 서비스|
 |23.08.21 ~ 23.10.06|[Blooming](https://github.com/5vengers-5ssemble/blooming)|아티스트들을 위해 앨범, 콘서트 크라우드 펀딩서비스와 팬과 소통할 수 있는 스트리밍 서비스를 제공하는 아티스트 펀딩 플랫폼|
 <!-- |23.07.04 ~ 23.08.18|[책방](https://github.com/chaekbang/chaekbang)|손쉽게 원하는 독서모임을 구하고 화상 독서모임을 진행할 수 있는 독서모임 플랫폼 서비스| -->
 <!-- |22.05.06 ~ 22.05.26|[HaoHao Trip](https://github.com/Enjoy-Happy-Happy-Trip)|지역별 관광 데이터를 활용한 여행 계획 공유 플랫폼| -->
+
+<br>
+
+# 📖 Recent 5 Study sessions
+|Date|Study Topics|
+|:---:|:---|
+|25.03.05|가상 면접 사례로 배우는 대규모 시스템 설계 기초 2권<br>- [ch01.근접성 서비스](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol2/chapter01/1%EC%9E%A5.%EA%B7%BC%EC%A0%91%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B9%80%EC%A3%BC%ED%98%84.md), [ch02.주변 친구](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol2/chapter02/2%EC%9E%A5.%EC%A3%BC%EB%B3%80%20%EC%B9%9C%EA%B5%AC_%EA%B9%80%EC%A3%BC%ED%98%84.md)|
+|25.02.26|가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권<br>- [ch13.검색어 자동완성 시스템](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter13/13%EC%9E%A5%20%EA%B2%80%EC%83%89%EC%96%B4%20%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1%20%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%A3%BC%ED%98%84.md), [ch14.유튜브 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter14/14%EC%9E%A5%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%84%A4%EA%B3%84_%EC%A3%BC%ED%98%84.md), [ch15.구글 드라이브 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter15/15%EC%9E%A5%20%EA%B5%AC%EA%B8%80%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%84%A4%EA%B3%84_%EC%A3%BC%ED%98%84.md)|
+|25.02.19|가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권<br>- [ch10.알림 시스템 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter10/10%EC%9E%A5%20%EC%95%8C%EB%A6%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84_%EA%B9%80%EC%A3%BC%ED%98%84.md), [ch11.뉴스 피드 시스템 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter11/11%EC%9E%A5%20%EB%89%B4%EC%8A%A4%20%ED%94%BC%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84_%EA%B9%80%EC%A3%BC%ED%98%84.md), [ch12.채팅 시스템 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter11/11%EC%9E%A5%20%EB%89%B4%EC%8A%A4%20%ED%94%BC%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84_%EA%B9%80%EC%A3%BC%ED%98%84.md)|
+|25.02.12|가상 면접 사례로 배우는 대규모 시스템 설계 기초 1권<br>- [ch07.분산 시스템을 위한 유일 ID 생성기 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter07/7%EC%9E%A5%20%EB%B6%84%EC%82%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9C%A0%EC%9D%BC%20ID%20%EC%83%9D%EC%84%B1%EA%B8%B0%20%EC%84%A4%EA%B3%84_%EA%B9%80%EC%A3%BC%ED%98%84.md), [ch08.URL 단축기 설계](https://github.com/depromeet/16th-study-system-design-interview/blob/main/vol1/chapter08/8%EC%9E%A5%20URL%20%EB%8B%A8%EC%B6%95%EA%B8%B0%20%EC%84%A4%EA%B3%84_%EA%B9%80%EC%A3%BC%ED%98%84.md)|
+|25.02.09|CS Study <br>- [DNS, Handshake, Http 버전별 Persistent Connection](https://github.com/damdam6/cs-tech-interview-study-2024/pull/65)|
+
+
 
 <br>
 
