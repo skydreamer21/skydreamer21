@@ -2,8 +2,6 @@
 
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Velog?style=뱃지모양&logo=Velog&logoColor=20C997"/></a> -->
 
-<!-- <a align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskydreamer21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-
 # 🌟 Introduce Me!
 
 ### 안녕하세요! 주니어 백엔드 개발자 김주현입니다. 😄
@@ -16,6 +14,8 @@
 ✨ 제가 만든 결과물이 동료들과 유저들에게 "**더 편리하게**, **더 쉽게**, **더 효과적이게**" 될 때 보람을 느낍니다.
 
 <img src="https://img.shields.io/badge/Backend-5e5e5e"> <img src="https://img.shields.io/badge/Passion-d95757"> <img src="https://img.shields.io/badge/Core_Catching-7d4dd6"> <img src="https://img.shields.io/badge/Together-61c777">
+
+✉️ skydreamer210@gmail.com
 
 
 <br>
@@ -121,6 +121,8 @@
         <td width="400"><img src="https://github-readme-stats.vercel.app/api?username=skydreamer21&theme=highcontrast"></td>
     </tr>
 </table>
+
+<div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskydreamer21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
 
