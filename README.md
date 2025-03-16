@@ -70,7 +70,7 @@
 |Date|Activity|Type|
 |:---:|:---:|:---:|
 |25.01.04 ~ now|Depromeet 16th|<img src="https://img.shields.io/badge/Activity_🏃‍♀️-a85bf0">|
-|24.07.15 ~ now|Tmax CoreAI - Server Engineer|<img src="https://img.shields.io/badge/Work_🏢-40aadb">|
+|24.07.15 ~ now|Tmax WAPL - Server Engineer|<img src="https://img.shields.io/badge/Work_🏢-40aadb">|
 |23.12.26 ~ 24.05.31|SSAFY Project Coach|<img src="https://img.shields.io/badge/Activity_🏃‍♀️-a85bf0">|
 |23.01.04 ~ 23.12.19|Samsung Software Academy For Youth<br>(SSAFY)|<img src="https://img.shields.io/badge/Education_📒-bf8b56">|
 |22.07.18 ~ 22.08.12|Naver BoostCamp 7th - Challenge course|<img src="https://img.shields.io/badge/Education_📒-bf8b56">|
