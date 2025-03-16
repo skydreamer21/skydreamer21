@@ -81,7 +81,7 @@
 |Date|Project|Desc|
 |:---:|:---:|:---|
 |25.01.04 ~ 25.04.19 (Onging)|[SPURT](https://github.com/depromeet/SPURT-server)|미룬이들의 스타트를 끊어주고, 확보한 골든타임의 몰입을 극대화해주는 서비스|
-|23.10.09 ~ 23.11.17|[줍줍](https://github.com/ZupZup-2EZ)|환경과 건강을 동시에 챙길 수 있는 플로깅에 흥미를 갖고 지속적인 참여를 독려하는 서비스|
+|23.10.09 ~ 23.11.17|[줍줍](https://github.com/ZupZup-2EZ)|플로깅 시 쓰레기통 위치 파악의 불편함을 해소하고, 수거한 쓰레기의 환경 영향에 따른 분류별 포인트를 재미있게 제공하는 플로깅 서비스|
 |23.08.21 ~ 23.10.06|[Blooming](https://github.com/5vengers-5ssemble/blooming)|아티스트들을 위해 앨범, 콘서트 크라우드 펀딩서비스와 팬과 소통할 수 있는 스트리밍 서비스를 제공하는 아티스트 펀딩 플랫폼|
 <!-- |23.07.04 ~ 23.08.18|[책방](https://github.com/chaekbang/chaekbang)|손쉽게 원하는 독서모임을 구하고 화상 독서모임을 진행할 수 있는 독서모임 플랫폼 서비스| -->
 <!-- |22.05.06 ~ 22.05.26|[HaoHao Trip](https://github.com/Enjoy-Happy-Happy-Trip)|지역별 관광 데이터를 활용한 여행 계획 공유 플랫폼| -->
