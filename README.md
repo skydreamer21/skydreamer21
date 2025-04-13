@@ -104,11 +104,12 @@
 # ✏️ Recent 5 Blog Posts
 |Date|Post|Tags|
 |:---:|:---|:---|
+|25.04.13|[NIC를 활용한 쿠버네티스 클러스터 외부 통신 문제 해결](https://velog.io/@skydreamer21/NIC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%99%B8%EB%B6%80-%ED%86%B5%EC%8B%A0-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)|<img src="https://img.shields.io/badge/network-5d8cc9"> <img src="https://img.shields.io/badge/NIC-5d8cc9"> <img src="https://img.shields.io/badge/kubernetes-5d8cc9">|
 |24.11.24|[Swagger에서 Authorize Logout이 안되는 문제 해결](https://velog.io/@skydreamer21/Swagger%EC%97%90%EC%84%9C-Authorize-Logout%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)|<img src="https://img.shields.io/badge/Session-80bf6d"> <img src="https://img.shields.io/badge/Cookie-80bf6d"> <img src="https://img.shields.io/badge/CORS-80bf6d">|
 |24.11.13|[Ehcache, 제대로 알고 적용해보자 - 1](https://velog.io/@skydreamer21/Ehcache-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-1)|<img src="https://img.shields.io/badge/Ehcache-5d8cc9"> <img src="https://img.shields.io/badge/JCache-5d8cc9"> <img src="https://img.shields.io/badge/Spring_Cache_Abstraction-5d8cc9">|
 |24.10.25|[JPA Auditing, 꼭 상속으로만 구현해야 할까요?](https://velog.io/@skydreamer21/JPA-Auditing-%EC%83%81%EC%86%8D-VS-%ED%95%A9%EC%84%B1)|<img src="https://img.shields.io/badge/JPA_Auditing-80bf6d"> <img src="https://img.shields.io/badge/Inheritance-80bf6d"> <img src="https://img.shields.io/badge/Composition-80bf6d">|
 |24.10.15|[IntelliJ에서 디버깅을 누르면 무슨일이 일어날까?](https://velog.io/@skydreamer21/IntelliJ%EC%97%90%EC%84%9C-%EB%94%94%EB%B2%84%EA%B9%85%EC%9D%84-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C)|<img src="https://img.shields.io/badge/Java_Debugging-5d8cc9"> <img src="https://img.shields.io/badge/Socket-5d8cc9">|
-|24.09.29|[인프런 퇴근길 밋업(with 개발바닥⭐) 후기](https://velog.io/@skydreamer21/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8-%EB%B0%8B%EC%97%85with-%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5-%ED%9B%84%EA%B8%B0)|<img src="https://img.shields.io/badge/Inflearn-80bf6d"> <img src="https://img.shields.io/badge/Meetup-80bf6d">|
+
 
 [More...](https://velog.io/@skydreamer21/posts)
 
